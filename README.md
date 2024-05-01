@@ -20,10 +20,7 @@ This project is focused on enhancing the classic mobile game Flappy Bird by impl
 - **Difficulty Settings**: Options to choose difficulty levels at the beginning of the game.
 
 ## Installation
-1. Clone the repository:
-   ```bash
-   git clone FwappyBwird
-   ```
+1. Clone the repository
 2. Open the project in Eclipse or any Java-supported IDE.
 3. Run the game from the main class.
 
