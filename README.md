@@ -8,8 +8,8 @@ This project is focused on enhancing the classic mobile game Flappy Bird by impl
 - Change game element colors and character designs.
 - Upgrade game levels for increased difficulty.
 
-## Technologies Used
-- **Eclipse IDE** ![image](https://github.com/NexFrosty/FwappyBwird/assets/74113883/90431649-dde0-4fc4-9fc3-80636bbf66d2)
+## Technology Used
+- **Eclipse IDE** 
 
 ## Features Implemented
 - **Color Changes**: From green to various colors depending on the game state.
